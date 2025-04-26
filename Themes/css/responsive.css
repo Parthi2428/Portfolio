@@ -323,7 +323,7 @@
 		padding-bottom: 60px;
 	}
 	.portfolio-box .portfolio-item {
-		padding: 25px 15px 0 15px;
+		padding: 15px;
 	}
 	.portfolio-box .content-box {
 		width: calc(100% - 30px);
@@ -511,7 +511,7 @@
 		padding-bottom: 60px;
 	}
 	.section-header {
-		margin-bottom: 40px;
+		margin-bottom: 0px;
 	}
 	.section-header .section-title {
 		font-size: 30px;
@@ -705,7 +705,7 @@
 	}
 	.portfolio-box .portfolio-item {
 		width: 100%;
-		padding: 25px 15px 0 15px;
+		padding: 15px;
 		margin-bottom: 30px;
 	}
 	.portfolio-box .content-box {
