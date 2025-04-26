@@ -1192,7 +1192,7 @@ a h6:hover {
 	position: relative;
 	float: left;
 	backdrop-filter: blur(10px);
-	max-height: 480px;
+	max-height: 400px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
