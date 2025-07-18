@@ -326,12 +326,12 @@
 		padding: 15px;
 	}
 	.portfolio-box .content-box {
-		width: calc(100% - 30px);
+		/* width: calc(100% - 30px); */
 		padding: 15px 30px 15px 15px;
 	}
 	.portfolio-box .portfolio-item .content-box .portfolio-title {
-		font-size: 25px;
-		margin: 0;
+		font-size: 20px;
+		/* margin: 0; */
 	}
 	.portfolio-box .portfolio-item .content-box i {
 		font-size: 15px;
@@ -709,12 +709,12 @@
 		margin-bottom: 30px;
 	}
 	.portfolio-box .content-box {
-		width: calc(100% - 30px);
+		/* width: calc(100% - 30px); */
 		padding: 15px 30px 15px 15px;
 	}
 	.portfolio-box .portfolio-item .content-box .portfolio-title {
 		font-size: 18px;
-		margin: 0;
+		/* margin: 0; */
 	}
 	.portfolio-box .portfolio-item .content-box i {
 		font-size: 15px;
