@@ -36,7 +36,7 @@
 		max-width: 165px;
 	}
 	.skills-widget .skill-inner {
-		padding: 30px 15px 25px;
+		/* padding: 30px 15px 25px; */
 	}
 }
 
@@ -117,7 +117,7 @@
 		max-width: 165px;
 	}
 	.skills-widget .skill-inner {
-		padding: 30px 15px 25px;
+		/* padding: 30px 15px 25px; */
 	}
 
 	/* testimonial */
@@ -400,7 +400,7 @@
 		max-width: 165px;
 	}
 	.skills-widget .skill-inner {
-		padding: 30px 15px 25px;
+		/* padding: 30px 15px 25px; */
 	}
 
 	/* testimonial */
@@ -796,10 +796,10 @@
 		max-width: 165px;
 	}
 	.skills-widget .skill-inner {
-		padding: 25px 15px 25px;
+		/* padding: 25px 15px 25px; */
 	}
 	.skills-widget .skill-item .icon-box {
-		margin: 0 auto 20px;
+		/* margin: 0 auto 20px; */
 	}
 
 	/* testimonial */
